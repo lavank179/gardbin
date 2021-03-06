@@ -1,5 +1,15 @@
 # gardbin
 
+#### Recreating this repo in contributer's account and again committing to new repo
+
+ ##### by - Contributer
+  @[lavan kumar](https://github.com/lavank179/)
+
+
+ ##### owner - 
+ @[ajai daniel](https://github.com/ajaidanial/)
+ 
+
 Some random algorithm that gets a text file and uses PostgreSQL to store the data.
 
 ## Getting Started
